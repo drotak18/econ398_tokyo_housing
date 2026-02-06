@@ -7,6 +7,8 @@ The primary data source for this project is the Ministry of Land, Infrastructure
 
 - MLIT Real Estate Information Library (transaction prices):  
   https://www.reinfolib.mlit.go.jp/realEstatePrices/
+- Literature reviewed: 
+The price of residential land in large US cities (Morris A. Davis a, Michael G. Palumbo b)
 
 The analysis will use transaction-level housing data sourced from MLIT.
 
